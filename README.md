@@ -4,6 +4,6 @@ Formulário de cadastro feito para captura de informações em uma API
 ### Tecnologias usadas:
 - ReactJS
 - Vite
-- API
+- Axios
 - MongoDB
 - NodeJS
